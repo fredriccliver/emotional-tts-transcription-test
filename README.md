@@ -1,6 +1,6 @@
 # Emotional TTS Comparison
 
-This project explores ways to incorporate emotion into Text-to-Speech (TTS) using OpenAI's GPT-4 for text modification and TTS-1 for speech synthesis.
+This project explores ways to incorporate emotion into Text-to-Speech (TTS) using OpenAI's GPT-4o-mini for text modification and TTS-1 for speech synthesis.
 
 ## Background
 
