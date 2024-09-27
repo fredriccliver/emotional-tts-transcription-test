@@ -4,7 +4,7 @@ emoji: 🗣️
 colorFrom: blue
 colorTo: pink
 sdk: gradio
-sdk_version: 3.50.2
+sdk_version: 4.44.0
 app_file: app.py
 pinned: false
 ---
@@ -55,4 +55,3 @@ This project is deployed on Hugging Face Spaces, allowing easy access and usage 
 ## Note
 
 This approach aims to strike a balance between conveying emotion and maintaining speech quality. It demonstrates how text modification can influence the perceived emotion in TTS output.
-
