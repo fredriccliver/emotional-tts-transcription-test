@@ -1,3 +1,14 @@
+---
+title: Emotional TTS Comparison
+emoji: 🗣️
+colorFrom: blue
+colorTo: pink
+sdk: gradio
+sdk_version: 3.50.2
+app_file: app.py
+pinned: false
+---
+
 # Emotional TTS Comparison
 
 This project explores ways to incorporate emotion into Text-to-Speech (TTS) using OpenAI's GPT-4o-mini for text modification and TTS-1 for speech synthesis.
