@@ -78,4 +78,4 @@ with gr.Blocks(title="Emotional TTS Comparison") as demo:
 if __name__ == "__main__":
     demo.launch()
 else:
-    demo.launch(share=True)
+    app = gr.mount_gradio_app(demo, "/")

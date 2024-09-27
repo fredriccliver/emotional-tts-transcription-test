@@ -1,2 +1,3 @@
-gradio
-openai
+gradio==3.50.2
+openai>=1.0.0
+python-dotenv==1.0.0
