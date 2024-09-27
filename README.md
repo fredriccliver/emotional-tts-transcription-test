@@ -2,6 +2,9 @@
 
 This project explores ways to incorporate emotion into Text-to-Speech (TTS) using OpenAI's GPT-4o-mini for text modification and TTS-1 for speech synthesis.
 
+![Capture](./images/capture.png)
+
+
 ## Background
 
 While some TTS systems like Bark can include descriptive elements in speech (e.g., "(큰 소리로) 위험해요!"), they may have quality issues with noise. This project aims to find a method to convey emotion using OpenAI's TTS while maintaining high audio quality.
